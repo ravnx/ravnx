@@ -1,7 +1,11 @@
-<!-- ## Hi there 👋 -->
 <picture>
   <img src="/github-metrics.svg" alt="Metrics">
 </picture>
+
+- 🔭 Most of my repos are private
+- 🌱 90% is perl! the rest is a mix of php and python, with javascript/html/bash last.
+
+
 <!--
 **ravnx/ravnx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
